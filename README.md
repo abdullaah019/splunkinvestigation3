@@ -1,3 +1,31 @@
+<h1>Splunk Investigation 3 Lab</h1>
+
+
+
+<h2>Description</h2>
+Security Information and Event Monitoring
+Using Splunk SIEM
+Lab) Splunk Investigation 3 Solution<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>PowerShell</b> 
+- <b>Splunk</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> 
+
+<h2>Program walk-through </h2>
+
+
+- <b>Splunk Investigation 2 Completion Certification </b>
+  - [Certification of completion](https://elearning.securityblue.team/public/lab-certificate/4306cabc-5f43-4bb5-a348-a6613a50eac4)
+
+
+
+
 Question 1 - OSINT can be extremely useful in almost every investigation. Perform a Google search for osk.exe - what is the full name of the Windows feature associated with osk.exe?
 
 Searching for “what is osk.exe” on Google tells us that this is the file used to run the On-Screen Keyboard feature from Windows.
